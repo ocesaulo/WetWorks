@@ -9,13 +9,13 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : WetWorks
-tagline: Site Tagline
+tagline: Crunching big data in ocean and climate sciences one byte at a time
 author :
   name : Saulo Soares
   email : ocesaulo@gmail.com
   github : ocesaulo
-  twitter : fucktwitter
-  feedburner : feedname
+  twitter : NO twitter
+  feedburner : No feedburner
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -128,3 +128,8 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
   
+# This is the list of pages to incldue in the header of the website.
+pages_list: 
+  About:'/about'
+  Archive:'/archive'
+  Feed':'/atom.xml'

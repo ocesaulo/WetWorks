@@ -5,6 +5,10 @@ tagline: Crunching big data in ocean and climate sciences one byte at a time
 ---
 {% include JB/setup %}
 
+Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
+
+Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
+
 ## Sample Posts
 
 Here's a sample "posts list".
