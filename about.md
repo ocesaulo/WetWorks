@@ -6,6 +6,8 @@ description: ""
 {% include JB/setup %}
 The blog is mainly about using open software to analyze large data-sets in ocean and climate sciences.
 
+Data-sets include in-situ observations, satellite and model.
+
 Hopefully it will help spread useful code at the same time improving them.
 
 Posts on discussions in ocean and climate sciences, fluid dynamics and financial analysis are also planned.
